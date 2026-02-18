@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(git -C /Users/wallacecoelho/development/keyboards/keychron-qmk log --oneline -20)",
-      "Bash(git -C:*)"
+      "Bash(git -C:*)",
+      "Bash(make keychron/k3_pro/ansi/rgb:via:*)"
     ]
   }
 }
