@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/wallacecoelho/development/keyboards/keychron-qmk log --oneline -20)",
+      "Bash(git -C:*)"
+    ]
+  }
+}
